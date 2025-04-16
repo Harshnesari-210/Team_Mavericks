@@ -1,5 +1,14 @@
 function App() {
-  return;
+return<>
+<div>
+
+<p>Connect to metamask</p>
+
+</div>
+</>
+  
+  
+  
 }
 
 export default App;
